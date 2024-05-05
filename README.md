@@ -1,0 +1,1 @@
+# LabHw6_DependencyInversion
